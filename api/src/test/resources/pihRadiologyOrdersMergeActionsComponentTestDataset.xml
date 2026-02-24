@@ -86,6 +86,7 @@
 
     <encounter encounter_id="1002" encounter_type="1004" patient_id="10002" location_id="1" encounter_datetime="2015-08-15 00:00:00.0" creator="1" date_created="2015-08-15" voided="false" uuid="AB05AF2B-6FE9-46E9-9F1B-BE82EC839DCC"/>
     <orders order_id="1003" order_number="12347" encounter_id="1002" order_action="NEW" order_type_id="1002" care_setting="1" urgency="STAT" concept_id="113" orderer="1" instructions="take medication" date_activated="2015-08-15 00:00:00.0" creator="1" date_created="2015-08-15 00:00:00.0" voided="false" patient_id="10002" uuid="B7BFB632-B710-4445-8F0D-7BD57149DE8F"/>
+    <drug_order order_id="1003" as_needed="0" dosing_type="org.openmrs.FreeTextDosingInstructions" dosing_instructions="As directed" dispense_as_written="0" quantity="1.0" quantity_units="51" num_refills="0"/>
 
     <encounter encounter_id="1003" encounter_type="1003" patient_id="10003" location_id="1" encounter_datetime="2015-08-15 00:00:00.0" creator="1" date_created="2015-08-15" voided="false" uuid="112959CA-91B3-41AB-866D-BD5D21A76082"/>
     <orders order_id="1004" order_number="12348" encounter_id="1003" order_action="NEW" order_type_id="1001" care_setting="1" urgency="STAT" concept_id="1001" orderer="1" instructions="x-ray" date_activated="2015-08-15 00:00:00.0" creator="1" date_created="2015-08-15 00:00:00.0" voided="false" patient_id="10003" uuid="0368FF8B-499C-4DA1-9C8A-008B484DAB7F"/>
